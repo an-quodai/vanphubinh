@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/antran/Desktop/vanphubinh/storage/logs/.e54f1ee5aef3426f691c09a8161f73e442323ceb-audit.json",
+    "files": [
+        {
+            "date": 1688703181535,
+            "name": "/Users/antran/Desktop/vanphubinh/storage/logs/nocobase-2023-07-07-11.log",
+            "hash": "918b7317431b4e19523f4af61141884f2acb3ecde42c79eea3cf1a189ec67aba"
+        }
+    ],
+    "hashType": "sha256"
+}
